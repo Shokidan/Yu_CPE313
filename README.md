@@ -23,9 +23,10 @@ This repository will contain different submission for CPE313 activities
 
 >Favorite Animes:
 >
-> **Lucky Star**
+>**Lucky Star**
 >
-> **Bleach**
+>**Macross Delta**
+>**Bleach**
 >
 > **The Melancholy of Haruhi Suzumiya**
 >

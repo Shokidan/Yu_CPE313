@@ -8,27 +8,39 @@ This repository will contain different submission for CPE313 activities
 <br>Elective: Data Science
 <br>Program: BSCPE
 
-+ About Me: <br>
->Current Game Addictions:
->
-> **Valorant**
->
-> **Genshin Impact**
->
-> **League of Legends**
->
-> **Honkai Impact** 
++ About Repository:
+This repository contains coursework, laboratory activities, and hands-on exercises completed for CPE313 (Artificial Intelligence / Machine Learning). The projects cover fundamental and intermediate concepts in machine learning, deep learning, computer vision, and object detection.
 
-<br>
+## Topics Covered
 
->Favorite Animes:
->
->**Lucky Star**
->
->**Macross Delta**
->
->**Bleach**
->
-> **The Melancholy of Haruhi Suzumiya**
->
-> **Violet Evergarden** 
+- Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Transfer Learning
+- Regularization Techniques
+- Computer Vision
+- YOLO Object Detection
+- YOLO Instance Segmentation
+- Image Classification
+- Model Training and Evaluation
+
+## Activities Included
+
+- Neural Network Implementation
+- CNN Architecture Experiments
+- Transfer Learning Exercises
+- Regularization Techniques
+- YOLOv3 Custom Dataset Training
+- YOLOv5 Instance Segmentation
+- Mood Recognition using Deep Learning
+- Computer Vision Applications
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- YOLO
+- NumPy
+- Pandas
+- Jupyter Notebook
